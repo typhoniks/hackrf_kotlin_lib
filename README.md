@@ -11,8 +11,16 @@ Some features may not work as expected or are not yet implemented.
 
 ---
 
+### Software Defined Radio Masterclass (9+ Hours) Certificated
+
+🌟 New to Software Defined Radio?
+Check out our 9+ hour SDR video course to go from beginner to advanced! Learn everything from the basics of radio and signals to advanced GSM/LTE topics, including hands-on projects with GNU Radio and SDR++. Perfect for anyone using HackRF or RTL-SDR.
+👉 https://ocsaly.thinkific.com / https://ocsaly.com
+
 ## Features
 
+
+#### HackRF Android Interface
 ### Implemented
 - Basic communication between Android devices and HackRF/RTL-SDR.
 - Initial user interface for device setup.
